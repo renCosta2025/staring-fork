@@ -83,10 +83,10 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             button.title = "ಠ_ಠ"
         }
         if let status1 = menu.item(at: 0) {
-            status1.title = "I Am Staring at You"
+            status1.title = "I Am ಠ_ಠ at You"
         }
         if let status2 = menu.item(at: 1) {
-            status2.title = "Your Mac Cannot Sleep"
+            status2.title = "Your 💻 ⛔️ 😴"
         }
         if let onOff = menu.item(at: 2) {
             onOff.title = "Stop Staring"
@@ -102,10 +102,10 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             button.title = "-_-"
         }
         if let status1 = menu.item(at: 0) {
-            status1.title = "I Am Not Staring at You"
+            status1.title = "I Am Not ಠ_ಠ at You"
         }
         if let status2 = menu.item(at: 1) {
-            status2.title = "Your Mac Can Now Sleep"
+            status2.title = "Your 💻 👍🏼 Now 😴 Like An 👼🏼"
         }
         if let onOff = menu.item(at: 2) {
             onOff.title = "Start Staring"
